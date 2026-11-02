@@ -1,0 +1,21 @@
+# Android Studio and IntelliJ
+.idea/
+*.iml
+
+# Local Android SDK path (machine-specific)
+local.properties
+
+# Gradle caches and build output
+.gradle/
+.kotlin/
+build/
+**/build/
+
+# Signing and secrets
+*.jks
+*.keystore
+keystore.properties
+
+# Operating-system files
+.DS_Store
+Thumbs.db
